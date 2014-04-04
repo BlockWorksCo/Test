@@ -17,3 +17,8 @@ All controlled from the host via a serial interface.
 TestBench
 ---------
 Allows interactive development of test scripts.
+
+
+Dashboard
+---------
+A simple way of displaying test results in a browser.
